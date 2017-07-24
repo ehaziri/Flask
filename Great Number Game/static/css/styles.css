@@ -1,0 +1,26 @@
+body{
+  margin: 20px auto;
+  width: 300px;
+  height: 400px;
+  border: 2px solid black;
+  padding: 10px;
+  text-align: center;
+}
+
+.kuti{
+  margin: 20px auto;
+  width: 100px;
+  height: 100px;
+  border: 2px solid black;
+  padding: 10px;
+  text-align: center;
+  color:white;
+}
+
+.red{
+  background-color: red;
+}
+
+.green{
+  background-color: green;
+}
